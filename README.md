@@ -1,6 +1,6 @@
 ## Hi, I'm Raveena 👋
 
-🎯 Aspiring Data Scientist / Machine Learning Engineer
+🎯 Aspiring Data Scientist / Machine Learning Engineer/Data Analyst
 
 ### Skills
 Programming & Querying: Python, SQL (MySQL)
